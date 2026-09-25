@@ -1,0 +1,69 @@
+
+
+Total record --97929
+
+duplicate records 247
+
+remainining total records --97683
+ 
+Blank record = 247 
+
+
+Dataset Analysis
+Dataset size
+Item	Result
+Total rows	97,682
+Total columns	17
+Exact duplicate rows	0
+Duplicate Job IDs	3 IDs
+Missing Company Name	4
+Missing Salary fields	569
+Missing Experience fields	569
+INR records	97,553
+USD records	129
+Salary "Not disclosed"	63,920
+Zero salary records	63,967
+Important columns
+title
+jobId
+currency
+jobUploaded
+companyName
+tagsAndSkills
+experience
+salary
+location
+companyId
+Company reviews
+Company rating
+jobDescription
+minimumSalary
+maximumSalary
+minimumExperience
+maximumExperience
+Important observations
+
+Top locations
+
+Bengaluru — 16,783
+Hyderabad — 7,657
+Pune — 6,096
+Chennai — 4,418
+Gurugram — 4,226
+Mumbai — 4,149
+
+Top companies
+
+Accenture — 8,193
+IDESLABS PRIVATE LIMITED — 2,294
+Wipro — 1,494
+Krazy Mantra HR Solutions — 1,026
+PRO Hr Complete Solutions — 981
+
+Top job titles
+
+Application Developer — 2,033
+Application Lead — 1,346
+Sales Executive — 576
+Software Development Engineer — 497
+Business Development Executive — 456
